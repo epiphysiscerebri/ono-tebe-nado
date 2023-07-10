@@ -32,3 +32,8 @@ a {
 img {
   width: 100%;
 }
+
+address {
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+}
