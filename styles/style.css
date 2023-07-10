@@ -209,6 +209,7 @@
   gap: 25px;
   padding-top: 28px;
   list-style-type: none;
+  flex-wrap: wrap;
 }
 
 .card-link {
