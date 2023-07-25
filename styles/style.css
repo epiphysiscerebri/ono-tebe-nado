@@ -16,6 +16,7 @@
   justify-content: space-between;
   min-height: 757px;
   min-width: 1440px;
+  /* Яна, добрый день. У меня не отображается скролл по какой-то причине, вероятно из-за разрешения экрана */
   width: auto;
   background-image: url('../images/cover.jpg');
   background-repeat: no-repeat;
