@@ -15,7 +15,7 @@
   flex-direction: column;
   justify-content: space-between;
   min-height: 757px;
-  min-width: 1440px;
+  min-width: 100%;
   background-image: url('../images/cover.jpg');
   background-repeat: no-repeat;
   background-size: cover;
